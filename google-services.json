@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194504595718",
+    "firebase_url": "https://noomou-e56d8.firebaseio.com",
+    "project_id": "noomou-e56d8",
+    "storage_bucket": "noomou-e56d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194504595718:android:e0c691ca28a3ab99ce6687",
+        "android_client_info": {
+          "package_name": "com.jec.noomou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194504595718-j7f8i6kv9pim66lco0pi6ajrb9412rcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlECxjbDX8GzwTLtt-AAif-DyJGEs8EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194504595718-j7f8i6kv9pim66lco0pi6ajrb9412rcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
